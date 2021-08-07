@@ -1,0 +1,19 @@
+{
+  "name": "osbx_font",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "image-data-uri": "^2.0.1",
+    "opentype.js": "^1.3.3"
+  },
+  "devDependencies": {
+    "@types/opentype.js": "^1.3.2"
+  }
+}
